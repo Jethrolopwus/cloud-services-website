@@ -5,7 +5,7 @@ import TeamImg from "../Assets/cyber.jpg";
 
 const Team = () => {
   return (
-    <div className='w-full mt-24'>
+    <div name='team' className='w-full mt-24'>
       <div className='w-full h-[700px] bg-gray-900/90 absolute'>
         <img className='w-full h-full object-cover mix-blend-overlay' src={TeamImg} alt='/' />
       </div>
