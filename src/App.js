@@ -5,6 +5,8 @@ import Team from "./Components/Team";
 import All from "./Components/All";
 import Princing from "./Components/Princing";
 import Footer from "./Components/Footer";
+import Services from './Components/Services';
+
 
 
 
@@ -18,6 +20,7 @@ function App() {
     <All />
     <Princing />
     <Footer />
+    <Services/>
     </>
   );
 }

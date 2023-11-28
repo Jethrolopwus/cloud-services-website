@@ -17,9 +17,7 @@ const All = () => {
                       <p className='text-lg pt-2 pb-4'>This is to notify our esteem clients about our service and Values we can offer across the globe</p>
                     </div>
                 </div>
-            </div>
-
-            
+            </div> 
             <div className='flex'>
                 <div>
                     <CheckIcon className='w-7 mr-4 text-green-600' />
